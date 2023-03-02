@@ -1,0 +1,2 @@
+sh otto/run_train_all_simple.sh
+sh otto_submit/run_test_all_simple.sh
